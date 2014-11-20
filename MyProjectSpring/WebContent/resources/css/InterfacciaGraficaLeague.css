@@ -1,0 +1,52 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	color:#fff;
+	width: 950px;
+	background: url(http://sportdimensions.net/wp-content/uploads/2014/06/basket_6.png);
+	background-size: 1365px 690px;
+	margin:20px;
+}
+
+div#container{
+	margin: 20px;
+	text-align: left;
+	border-left: 2px solid #36c;
+	border-right: 2px solid #36c;
+	min-width: 600px
+}
+
+div#tables{
+	width: 25em;
+	height: 25em;
+	float: left;
+	text-align: center;
+	
+}
+
+div#scheduls {
+	float:right; 
+	width:160px;
+	margin-left:10px;
+	
+}
+
+table {
+	margin:50px 50px 50px ;
+	background-color: #003964;
+}
+
+form{
+	width: 500px;
+	margin: 50px auto;
+	background: #003964;
+	padding: 25px;
+	overflow: hidden;
+	display: block;
+}
+
+div#footer{
+	padding:0.5em; 
+	color:#c0c0c0;
+	clear:both
+}	

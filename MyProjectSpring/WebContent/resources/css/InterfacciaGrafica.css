@@ -1,0 +1,114 @@
+html,body{
+		margin:0px;
+		padding:0px;
+}
+
+body{
+	font-size: 76%;   /*dimensionamento percentuale del font */
+    font-family: arial,sans-serif; 
+	
+}
+
+p#battlecry{
+	color: #FFFFF0;
+}
+
+
+a, a:link, a:visited {
+	color: #FFFFF0;
+}
+
+div {
+	display: block;
+}
+
+div#container{
+	background: url(http://th04.deviantart.net/fs6/PRE/i/2005/085/a/a/Basketball_Court_by_SnowmanHitman.jpg);
+	background-size: 1670px 780px;
+	margin: 0 auto;
+	text-align: left;
+	border-left: 2px solid #36c;
+	border-right: 2px solid #36c;
+	min-width: 600px
+}
+
+div#header{
+	background-color:#0045c4;
+	color: #ff0;
+}
+
+div#header div#ora{
+	float:right
+}
+
+div#header div#title{
+	
+}
+	
+h1{
+	margin: 0;
+	padding:0;
+	padding-left: 0.5em;
+	font: bold 2.3em/80px arial,serif;
+}
+	
+h2{
+	color : #4078B8;
+	font-size:1.5em;
+	text-align:center
+}
+	
+div#menu{
+	width: 13em;
+	float: left;
+	
+}
+
+div#menu ul{
+	margin: 1em 0 1em 1em;
+	padding: 0;
+	list-style-type: none;
+}
+	
+div#menu submit{
+	leight:20px
+}
+
+div#content{	
+	background-color: #fff;	
+	margin:0 170px; 
+	padding:1em 10px;
+	height:460px
+
+}
+
+div#content p{
+	text-align:center;
+	padding:1em;
+	margin-left: 13em
+}
+
+div#extra{
+	float:right; 
+	width:160px;
+	margin-left:10px;
+	
+}
+
+div#footer{
+	padding:0.5em; 
+	background-color: #012441;
+	color:#c0c0c0;
+	clear:both
+}	
+
+input {
+	background-color: #012441; 
+ 	border: 1px solid #004abb; 
+	color: #fff;
+	font-weight: bold;
+	padding: .2em;
+	height: 30px;
+	width: 10em;
+	text-align: left
+}
